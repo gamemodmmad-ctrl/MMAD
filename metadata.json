@@ -1,0 +1,7 @@
+{
+  "name": "Copy of آتلیه استایل هوشمند (Smart Style Studio)",
+  "description": "یک اپلیکیشن پیشرفته برای تغییر استایل مو، ریش، لباس و تاتو با استفاده از هوش مصنوعی و درک کامل زبان فارسی.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
